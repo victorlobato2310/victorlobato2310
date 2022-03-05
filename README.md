@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">   
-  <a href="mailto:victorsilva123190@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:victorlobato2310@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/victor-lobato-%F0%9F%87%A7%F0%9F%87%B7pt%F0%9F%87%A8%F0%9F%87%A6en%F0%9F%87%A6%F0%9F%87%B7es%F0%9F%87%AB%F0%9F%87%B7fr-ab12851b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/qr/SECADXJ26P7CH1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
@@ -12,13 +12,13 @@
 - 💻 MBA in Software Engineering
 - 💻 Software Engineer at 7COMm
 - 🗺️ Canindé - CE
-- 💬 Portuguese: Native; English: Advanced-Fluent; Spanish: Intermediate; French: Beginner-Intermediate.
+- 💬 Portuguese: Native; English: Fluent; Spanish: Intermediate; French: Intermediate.
 
 <h2>📃 Stats</h2>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorlobato2000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlobato2000&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorlobato2310&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlobato2310&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;"/>
 
 <h2>⚡ Skills</h2>
 <div align="center">
